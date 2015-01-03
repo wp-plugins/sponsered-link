@@ -1,0 +1,27 @@
+.customSocialPanel{ float:left; width:100%;}
+.customSocialPanel ul{ margin:0px; padding:0px;}
+.customSocialPanel ul li{ float:left; width:33%; list-style:none; margin-bottom:10px;}
+.customSocialPanel ul li a{ float: left; padding:0px; font-size:14px; color:#000; line-height:18px; font-family:Arial, Helvetica, sans-serif; text-decoration:none;}
+.customSocialPanel ul li a:hover{ text-decoration:underline;}
+.textwidget .customSocialPanel li{ margin-left:0px;}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
