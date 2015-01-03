@@ -5,16 +5,16 @@ Requires at least: 3.0.1
 Tested up to: 3.4
 Stable tag: 4.3
 
-Here is a short description of the plugin.  This should be no more than 150 characters.  No markup here.
+Sponsered Link is the best WordPress plugin. Sponsered Link allow you to easily create and manage Sponser Link through a simple admin interface.
 
 == Description ==
 
 
 ### Simple WordPress Sponser Link Plugin
 
-Sponsered Link the best free WordPress Sponsered Link plugin. Sponsered Link is allows you to easily create and manage Sponser Link through a simple admin interface.
+Sponsered Link is the best WordPress plugin. Sponsered Link allow you to easily create and manage Sponser Link through a simple admin interface.
 
-You can dislay random sponser link  in wordPress post, page or sidebar.
+You can dislay random sponser link in wordPress post, page or widget.
 
 
 == SponserLink plugin features include ==
